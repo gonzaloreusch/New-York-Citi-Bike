@@ -1,8 +1,8 @@
-# Tableau-Challenge
+# Tableau
 
 ![citi-bike-station-bikes](https://user-images.githubusercontent.com/70727613/111385372-b1ac7900-8678-11eb-9c99-253a0fe7c972.jpg)
 
-Congratulations on your new job! As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
+An analysis of the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, Responsibilities for this assignment included generating regular reports regarding the largest bike sharing program in the United States for city officials looking to publicize and improve the city program.
 
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
 
@@ -10,11 +10,9 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 ## Task
 
-**Your task in this assignment is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.** 
+**aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.** 
 
-**Design 2-5 visualizations for each discovered phenomena (4-10 total). You may work with a timespan of your choosing. Optionally, you may merge multiple datasets from different periods.** 
-
-**The following are some questions you may wish to tackle. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!**
+**Design 2-5 visualizations for each discovered phenomena (4-10 total).** 
 
 * How many trips have been recorded total during the chosen period?
 
